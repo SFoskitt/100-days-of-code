@@ -21,3 +21,12 @@ This is a Markdown test:
 **Link to work:** https://github.com/SFoskitt/Learn-Python-the-Hard-Way
 
 **Link to blog:** http://stephanietech.net/2017/01/09/day-1-100-days-of-code/
+
+
+### Day 2: Tuesday, January 10, 2017
+
+**Today's Progress**: "Learn Python the Hard Way" exercises Chapter 21, 22, 25
+
+**Thoughts:** Fun because this was work done with others.
+
+**Link to blog:** http://stephanietech.net/2017/01/11/day-2-100-days-of-code/
