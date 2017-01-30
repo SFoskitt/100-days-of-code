@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: Sunday, January 29, 2017
+
+**Today's Progress**: Finished adding Pytest specs/tests onto the previous "46 Simple Python Exercises".
+
+**Thoughts**: Starting to get into a rhythm with these tests and will definitely include Pytest in my next Python project.
+
+**Link to work**: https://github.com/SFoskitt/python_extra
+
+**Link to blog**: http://stephanietech.net/2017/01/29/day-18-100-days-of-code/
+
 
 ### Day 17: Saturday, January 28, 2017
 
