@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 19: Monday, January 30, 2017
+
+**Today's Progress**: Back to "46 Simple Python Exercises" today.
+
+**Thoughts**: Heroku deployment of a test Flask app did not go well.
+
+**Link to work**: https://github.com/SFoskitt/python_extra
+
+**Link to blog**: http://stephanietech.net/2017/01/30/day-19-100-days-of-code/
+
+
 ### Day 18: Sunday, January 29, 2017
 
 **Today's Progress**: Finished adding Pytest specs/tests onto the previous "46 Simple Python Exercises".
