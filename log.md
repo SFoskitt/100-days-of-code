@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 20: Wednesday, February 1, 2017
+
+**Today's Progress**: "46 Simple Python Exercises" number 18, 19, 20, 21 and tests for each exercise.
+
+**Thoughts**: I can't believe after all this time I just noticed how these exercises are building on each other.  The latest ones seem to require efforts produced by previous exercises.  However, the work in these previous modules was simpler to replicate than import.
+
+**Link to Work**: https://github.com/SFoskitt/python_extra
+
+**Link to Blog**: https://goo.gl/DqHNwj
+
+
 ### Day 19: Monday, January 30, 2017
 
 **Today's Progress**: Back to "46 Simple Python Exercises" today.
