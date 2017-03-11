@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 1: Friday, March 10, 2017
+
+**Today's Progress**: REBOOT Day 1.
+
+**Thoughts**: It's been a while, reboot this challenge from the start.
+
+**Link to work**: https://agile-springs-13400.herokuapp.com/
+
+**Link to blog**: http://stephanietech.net/2017/03/10/reboot
+
+
 ### Day 19: Monday, January 30, 2017
 
 **Today's Progress**: Back to "46 Simple Python Exercises" today.
