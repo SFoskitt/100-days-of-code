@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 2: Saturday, March 11, 2017
+
+**Today's Progress**: REBOOT Day 2.
+
+**Thoughts**: React is working well for me, I'm enjoying it so far.
+
+**Link to work**: https://young-brook-78040.herokuapp.com/
+
+**Link to blog**: http://stephanietech.net/coding/2017/03/11/reboot-day-2-react-is-silky-smooth
+
+
 ### Day 1: Friday, March 10, 2017
 
 **Today's Progress**: REBOOT Day 1.
